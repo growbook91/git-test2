@@ -11,11 +11,10 @@
 # **코딩하다 막혔을 때에 뭘하는지**
 
 ![조사2](2.png)
-'''name
-90%의 사람들이 stackoverflow를 사용한다고 한다..
-
+```
+90%의 사람들이 stackoverflow를 사용한다고 한다..<br>
 ~~(해당 사이트에서 조사했으니 당연한 말..)~~
-'''
+```
 >재밌는 영상
 
 [youtube](https://www.youtube.com/watch?v=E_xcGkRXy7c&t=1911s)
